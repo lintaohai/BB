@@ -1,6 +1,6 @@
 <template>
   <div>
-    头部组件
+    头部组件666
   </div>
 </template>
 
