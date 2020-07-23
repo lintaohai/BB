@@ -1,6 +1,6 @@
 <template>
   <div>
-     <div>这是b模块的咯</div>
+     <div>这是b模块的咯333</div>
   </div>
 </template>
 
